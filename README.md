@@ -1,6 +1,6 @@
 <h1 align="center">WebStudio</h1>
 <h2 align="center">Site with using flask tamplates</h2>
-<h2 align="center">Techology that I used:</h2>
+<h3 align="center">Techology that I used: </h3>
 
 
 ----
@@ -14,6 +14,6 @@
 ---
 
 
-### Author
+<h3 align="center">Author</h3>
 [![GitHub Contributors Image](https://contrib.rocks/image?repo=LeadShadow/hw6web)](https://github.com/LeadShadow)
 
