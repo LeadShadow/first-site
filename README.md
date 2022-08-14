@@ -1,9 +1,9 @@
 ## *Site WebStudio*
 # *Site with using flask tamplates*
 
-[![Language](https://img.shields.io/badge/language-python-blue?&style=plastic)](https://www.python.org)
-[![Language version](https://img.shields.io/badge/version-3.9-red?&style=plastic)](https://www.python.org/downloads/)
 ![GitHub repo size](https://img.shields.io/badge/repo%20size-8.22%20mB-pink?&style=plastic)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
+[![Language version](https://img.shields.io/badge/version-3.9-red?&style=plastic)](https://www.python.org/downloads/)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ---
 
