@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Студия</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='/css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+</head>
+<body>
+<header class="head page">
+    <div class="section-head">
+        <ul class="head-ul">
+            <li><a href="http://127.0.0.1:5000/main" class="webstudio-head">WebStudio</a></li>
+            <li><a href="http://127.0.0.1:5000/catalog" class="studio-head">Студия</a></li>
+            <li><a href="" class="port">Портфолио</a></li>
+            <li><a href="" class="contacts">Контакты</a></li>
+            <li><a href="" class="info-head">olexandr.samus.2004@gmail.com</a></li>
+            <li><a href="" class="number-head">+38 093 731 60 48</a></li>
+        </ul>
+    </div>
+</header>
+<main class="main-nav">
+    <div class="choice-section">
+        <button class="button-feature-1">Все</button>
+        <button class="button-feature-2">Веб-сайты</button>
+        <button class="button-feature-3">Приложения</button>
+        <button class="button-feature-4">Дизайн</button>
+        <button class="button-feature-5">Маркетинг</button>
+    </div>
+    <section class="section-application">
+        <ul class="main-ul">
+            <li class="main-list-1">
+                <img class="tech" src="{{ url_for('static', filename='./image/img.png') }}" alt="" width="370" height="294">
+                <h3>Технокряк</h3>
+                <p>Веб-сайт</p>
+                <button>Перейти</button>
+            </li>
+            <li class="main-list-2">
+                <img src="{{ url_for('static', filename='/image/img (1).png') }}"  alt="" width="370" height="294">
+                <h3>Постер New Orlean vs Golden</h3>
+                <p>Дизайн</p>
+                <button>Перейти</button>
+            </li>
+            <li class="main-list-3">
+                <img src="{{ url_for('static', filename='/image/img (2).png') }}" alt="" width="370" height="294">
+                <h3>Ресторан Seafood</h3>
+                <p>Веб-сайт</p>
+                <button>Перейти</button>
+            </li>
+            <li class="main-list-4">
+                <img src="{{ url_for('static', filename='/image/img (3).png') }}" alt="" width="370" height="294">
+                <h3>Проект Prime</h3>
+                <p>Маркетинг</p>
+                <button>Перейти</button>
+            </li>
+            <li class="main-list-5">
+                <img src="{{ url_for('static', filename='/image/img (4).png') }}" alt="" width="370" height="294">
+                <h3>Проект Boxes</h3>
+                <p>Приложение</p>
+                <button>Перейти</button>
+            </li>
+            <li class="main-list-6">
+                <img src="{{ url_for('static', filename='/image/img (5).png') }}" alt="" width="370" height="294">
+                <h3>Inspiration has no Borders</h3>
+                <p>Веб-сайт</p>
+                <button>Перейти</button>
+            </li>
+            <li class="main-list-7">
+                <img src="{{ url_for('static', filename='/image/img (6).png') }}" alt="" width="370" height="294">
+                <h3>Издание Limited Edition</h3>
+                <p>Дизайн</p>
+                <button>Перейти</button>
+            </li>
+            <li class="main-list-8">
+                <img src="{{ url_for('static', filename='/image/img (7).png') }}" alt="" width="370" height="294">
+                <h3>Проект LAB</h3>
+                <p>Маркетинг</p>
+                <button>Перейти</button>
+            </li>
+            <li class="main-list-9">
+                <img src="{{ url_for('static', filename='/image/img (8).png') }}" alt="" width="370" height="294">
+                <h3>Growing Business</h3>
+                <p>Приложение</p>
+                <button>Перейти</button>
+            </li>
+        </ul>
+    </section>
+</main>
+<footer class="footer-nav">
+    <ul class="footer-ul">
+        <li><a href="" class="webstudio-foot">WebStudio</a></li>
+        <li><a href="" class="adress">м.Гайсин вул.Пироговського 18</a></li>
+        <li><a href="" class="info-foot">olexandr.samus.2004@gmail.com</a></li>
+        <li><a href="" class="number-foot">+38 093 731 60 48</a></li>
+    </ul>
+</footer>
+</body>
+</html>

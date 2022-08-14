@@ -1,0 +1,1000 @@
+body {
+    background: #E5E5E5;
+    font-family: Lato, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    border-bottom: 1px solid #2196F3
+}
+
+img {
+    display: inline
+}
+
+* {
+margin: 0;
+padding: 0;
+outline: none;
+border: none;
+box-sizing: border-box;
+}
+
+header {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 1600px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+}
+
+
+main {
+    background-color: #F5F4FA;
+    margin: 0;
+    padding: 0;
+}
+
+
+footer {
+    background-color: #2F303A;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 1600px;
+    height: 252px;
+    top: 2300px;
+    right: 0px;
+    left: 0px;
+}
+
+ul {
+    list-style: none;
+}
+
+.head-ul li {
+    display: inline-block;
+}
+
+.webstudio-head {
+    position: absolute;
+    width: 141px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+
+.studio-head {
+    position: absolute;
+    width: 49px;
+    height: 16px;
+    left: 453px;
+    top: 32px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.port {
+    position: absolute;
+    width: 77px;
+    height: 16px;
+    left: 552px;
+    top: 32px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #2196F3;
+}
+
+.contacts {
+    position: absolute;
+    width: 62px;
+    height: 16px;
+    left: 679px;
+    top: 32px;
+
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
+    color: #212121;
+}
+
+.info-head {
+    position: absolute;
+    width: 200px;
+    height: 16px;
+    left: 980px;
+    top: 32px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.number-head {
+    position: absolute;
+    width: 122px;
+    height: 16px;
+    left: 1263px;
+    top: 32px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.main-div {
+    position: absolute;
+    width: 1600px;
+    height: 600px;
+    left: 0px;
+    top: 80px;
+    background: rgba(47, 48, 58, 1);
+}
+
+.title-page {
+    text-transform: uppercase;
+    margin-top: 200px;
+    font-family: inherit;
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0.06em;
+    color: #ffffff;
+    text-align: center;
+}
+
+.book-service {
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 40px;
+    width: 230px;
+    height: 70px;
+    border-radius: 6px;
+    background-color: #2196F3;
+    color: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    font-family: inherit;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.06em;
+    font-weight: 700;
+    text-align: center;
+}
+
+.book-service:hover {
+    border: 1px solid #F5F4FA;
+}
+
+div {
+    display: inline-block;
+}
+
+.li-vector-1 {
+    position: relative;
+    width: 270px;
+    height: 120px;
+    left: 215px;
+    top: 774px;
+    background: #F5F4FA;
+    border-radius: 4px;
+}
+
+.div-vector-1 {
+    position: relative;
+    top: 25px;
+    right: -102px;
+    bottom: 25px;
+    left: 102px
+}
+
+.div-kolo {
+    position: relative;
+    left: 58px;
+    top: 6px;
+}
+
+.li-vector-2 {
+    position: absolute;
+    width: 270px;
+    height: 120px;
+    left: 515px;
+    top: 774px;
+    background: #F5F4FA;
+    border-radius: 4px;
+}
+
+.div-vector-2 {
+    position: relative;
+    top: 25px;
+    right: -102px;
+    bottom: 25px;
+    left: 102px
+}
+
+.div-palka-1 {
+    position: relative;
+    bottom: 9px;
+    left: 38px
+}
+
+.div-palka-2 {
+    position: relative;
+    bottom: 34px;
+    left: 55px
+}
+
+.div-palka-3 {
+    position: relative;
+    bottom: 11px;
+    left: 72px
+}
+
+.li-vector-3 {
+    position: absolute;
+    width: 270px;
+    height: 120px;
+    left: 815px;
+    top: 774px;
+    background: #F5F4FA;
+    border-radius: 4px;
+}
+
+.div-vector-3 {
+    position: relative;
+    top: 33px;
+    right: -100px;
+    bottom: 33px;
+    left: 100px
+}
+
+.div-diagrama-1 {
+    position: relative;
+    top: 15px;
+    left: 45px;
+}
+
+.div-diagrama-2 {
+    position: relative;
+    top: 15px;
+    left: 47px;
+}
+
+.div-diagrama-3 {
+    position: relative;
+    top: 15px;
+    left: 49px;
+}
+
+.div-diagrama-4 {
+    position: relative;
+    top: 15px;
+    left: 51px;
+}
+
+.li-vector-4 {
+    position: absolute;
+    width: 270px;
+    height: 120px;
+    left: 1115px;
+    top: 774px;
+    background: #F5F4FA;
+    border-radius: 4px;
+}
+
+.div-vector-4 {
+    position: relative;
+    top: 33px;
+    right: -100px;
+    bottom: 33px;
+    left: 100px
+}
+
+.div-star-1 {
+    position: relative;
+    bottom: 8px;
+    left: 100px;
+
+}
+
+.div-kvadrat-1 {
+    position: relative;
+    bottom: 18px;
+    left: 32.1px;
+}
+
+.div-kvadrat-2 {
+    position: relative;
+    bottom: 16px;
+    left: 29px;
+}
+
+.div-kvadrat-3 {
+    position: relative;
+    bottom: 16px;
+    left: 18.9px;
+}
+
+.div-kvadrat-4 {
+    position: relative;
+    bottom: 14px;
+    left: 15.8px;
+}
+
+.div-kvadrat-5 {
+    position: relative;
+    top: 20px;
+    left: 33.1px;
+}
+
+.div-kvadrat-6 {
+    position: relative;
+    top: 22px;
+    left: 29.9px;
+}
+
+.div-kvadrat-7 {
+    position: relative;
+    top: 22px;
+    left: 20px;
+}
+
+.div-kvadrat-8 {
+    position: relative;
+    top: 24px;
+    left: 16.8px;
+}
+
+.div-kvadrat-9 {
+    position: relative;
+    top: 24px;
+    left: 23px;
+}
+
+.div-kvadrat-10 {
+    position: relative;
+    top: 26px;
+    left: 19.9px;
+}
+
+.div-kvadrat-11 {
+    position: relative;
+    top: 26px;
+    left: 9.9px;
+}
+
+.div-kvadrat-12 {
+    position: relative;
+    top: 28px;
+    left: 6.8px;
+}
+
+.div-kvadrat-13 {
+    position: relative;
+    top: 15px;
+    left: 11px;
+}
+
+.div-kvadrat-14 {
+    position: relative;
+    top: 17px;
+    left: 8px;
+}
+
+.div-kvadrat-15 {
+    position: relative;
+    top: 17px;
+    left: -2.1px;
+}
+
+.div-kvadrat-16 {
+    position: relative;
+    top: 19px;
+    left: -5.2px;
+}
+
+.attention-1 {
+    position: absolute;
+    width: 270px;
+    height: 16px;
+    top: 924px;
+    left: 215px;
+    text-transform: uppercase;
+    font-family: inherit;
+    font-weight: 900;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    color: black
+}
+
+.pre-1 {
+    position: absolute;
+    width: 270px;
+    height: 75px;
+    top: 950px;
+    left: 215px;
+    font-family: inherit;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+
+.attention-2 {
+    position: absolute;
+    width: 270px;
+    height: 16px;
+    text-transform: uppercase;
+    top: 924px;
+    left: 515px;
+    font-family: inherit;
+    font-weight: 900;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    color: black
+}
+
+.pre-2 {
+    position: absolute;
+    width: 270px;
+    height: 75px;
+    top: 950px;
+    left: 515px;
+    font-family: inherit;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+.attention-3 {
+    position: absolute;
+    width: 270px;
+    height: 16px;
+    top: 924px;
+    text-transform: uppercase;
+    left: 815px;
+    font-style: normal;
+    font-family: inherit;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    color: black
+}
+
+.pre-3 {
+    position: absolute;
+    width: 270px;
+    height: 75px;
+    top: 950px;
+    left: 815px;
+    font-family: inherit;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+
+.attention-4 {
+    position: absolute;
+    width: 270px;
+    height: 16px;
+    top: 924px;
+    text-transform: uppercase;
+    left: 1115px;
+    font-style: normal;
+    font-family: inherit;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    color: black
+}
+
+.pre-4 {
+    position: absolute;
+    width: 270px;
+    height: 75px;
+    top: 950px;
+    left: 1115px;
+    font-family: inherit;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+.What-we-do {
+    position: absolute;
+    width: 420px;
+    height: 70px;
+    top: 1119px;
+    left: 612px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 63px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+    background-color: white;
+}
+
+.feat-1 {
+    position: absolute;
+    width: 370px;
+    height: 320px;
+    left: 215px;
+    top: 1211px;
+    background-color: #ffffff;
+    padding-right: 370px;
+}
+
+.feat-2 {
+    position: absolute;
+    width: 370px;
+    height: 320px;
+    left: 615px;
+    top: 1211px;
+    background-color: #ffffff;
+    padding-right: 370px;
+}
+
+.feat-3 {
+    position: absolute;
+    width: 370px;
+    height: 320px;
+    left: 1015px;
+    top: 1211px;
+    padding-right: 370px;
+    background-color: #ffffff;
+}
+
+.feat-1:hover {
+    border: 1px solid #2196F3;
+}
+
+.feat-2:hover {
+    border: 1px solid #2196F3;
+}
+
+.feat-3:hover {
+    border: 1px solid #2196F3;
+}
+
+.team {
+    position: absolute;
+    width: 264px;
+    height: 87px;
+    top: 1670px;
+    left: 668px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+    background-color: white;
+}
+
+.teams-1 {
+    position: absolute;
+    width: 270px;
+    height: 428px;
+    left: 215px;
+    top: 1785px;
+    padding-right: 270px;
+    background-color: #ffffff;
+}
+
+.elipse-inst {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 22px;
+    bottom: 15px;
+}
+
+.item-inst-1 {
+    border-radius: 50%;
+    border: 24px solid #2196F3;
+}
+
+.elipse-inst:hover {
+    cursor: pointer;
+}
+
+
+.item-inst-2 {
+    position: absolute;
+    bottom: 15px;
+    left: 14px;
+    border-radius: 6px;
+}
+
+.item-inst-3 {
+    position: absolute;
+    bottom: 20px;
+    left: 19px;
+}
+
+.item-inst-4 {
+    position: absolute;
+    bottom: 29px;
+    left: 28px;
+}
+
+.twitter-1 {
+    position: absolute;
+    margin-left: 14px;
+    margin-top: 13px;
+}
+
+.elipse-inst a {
+    border: none;
+}
+
+.elipse-twitter {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    background-color: white;
+    margin-left: 85px;
+    bottom: 16px;
+    border-radius: 50%;
+}
+
+.elipse-twitter:hover {
+    cursor: pointer;
+}
+
+
+.elipse-facebook {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    background-color: white;
+    margin-left: 143px;
+    bottom: 16px;
+    border-radius: 50%;
+}
+
+
+.facebook-1 {
+    position: absolute;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+
+.elipse-facebook:hover {
+    cursor: pointer;
+}
+
+.in-1 {
+    position: absolute;
+    margin-left: 13px;
+    margin-top: 15px;
+}
+
+.in-2 {
+    position: absolute;
+    margin-left: 21px;
+    margin-top: 15px;
+}
+
+.in-3 {
+    position: absolute;
+    margin-left: 13px;
+    margin-top: 9px;
+}
+
+.elipse-in {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    background-color: white;
+    margin-left: 190px;
+    bottom: 16px;
+    border-radius: 50%;
+}
+
+.elipse-in:hover {
+    cursor: pointer;
+}
+
+.teams-2 {
+    position: absolute;
+    width: 270px;
+    height: 428px;
+    left: 515px;
+    top: 1785px;
+    padding-right: 270px;
+    background-color: #ffffff;
+}
+
+.teams-3 {
+    position: absolute;
+    width: 270px;
+    height: 428px;
+    left: 815px;
+    top: 1785px;
+    padding-right: 270px;
+    background-color: #ffffff;
+}
+
+.teams-4 {
+    position: absolute;
+    width: 270px;
+    height: 428px;
+    left: 1115px;
+    top: 1785px;
+    padding-right: 270px;
+    background-color: #ffffff;
+}
+
+.teams-1 h3 {
+    position: absolute;
+    width: 151px;
+    height: 19px;
+    margin: 30px 59px 10px 60px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #212121;
+    text-align: center;
+}
+
+.teams-1 p {
+    width: 130px;
+    height: 19px;
+    margin: 59px 70px 30px 70px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #757575;
+    text-align: center;
+}
+
+.teams-2 h3 {
+    position: absolute;
+    width: 151px;
+    height: 19px;
+    margin: 30px 59px 10px 60px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #212121;
+    text-align: center;
+}
+
+.teams-2 p {
+    width: 130px;
+    height: 19px;
+    margin: 59px 70px 30px 70px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #757575;
+    text-align: center;
+}
+
+.teams-3 h3 {
+    position: absolute;
+    width: 151px;
+    height: 19px;
+    margin: 30px 59px 10px 60px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #212121;
+    text-align: center;
+}
+
+.teams-3 p {
+    width: 130px;
+    height: 19px;
+    margin: 59px 70px 30px 70px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #757575;
+    text-align: center;
+}
+
+.teams-4 h3 {
+    position: absolute;
+    width: 151px;
+    height: 19px;
+    margin: 30px 59px 10px 60px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #212121;
+    text-align: center;
+}
+
+.teams-4 p {
+    width: 130px;
+    height: 19px;
+    margin: 59px 70px 30px 70px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #757575;
+    text-align: center;
+}
+
+.clients {
+    position: absolute;
+    width: 1600px;
+    height: 500px;
+    left: 0px;
+    top: 2400px;
+    background: #F5F4FA;
+}
+
+
+.webstudio-foot {
+    position: absolute;
+    width: 141px;
+    height: 31px;
+    left: 215px;
+    top: 60px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+
+.adress {
+    position: absolute;
+    width: 213px;
+    height: 21px;
+    left: 215px;
+    top: 111px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+    color: #fff;
+}
+
+.info-foot {
+    position: absolute;
+    width: 218px;
+    height: 21px;
+    left: 215px;
+    top: 141px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6)
+}
+
+.number-foot {
+    position: absolute;
+    width: 121px;
+    height: 21px;
+    left: 215px;
+    top: 171px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6)
+}
+
+.our-work img:hover {
+    border-bottom: 1px solid #2196F3;
+}
+
+.teams-1:hover {
+    border: 1px solid #2196F3;
+}
+
+.teams-2:hover {
+    border: 1px solid #2196F3;
+}
+
+.teams-3:hover {
+    border: 1px solid #2196F3;
+}
+
+.teams-4:hover {
+    border: 1px solid #2196F3;
+}
+
+.our-work img:hover {
+    border-bottom: 1px solid #2196F3;
+}
+
+.our-team .team-1:hover {
+    border-bottom: 1px solid #2196F3;
+}
+
