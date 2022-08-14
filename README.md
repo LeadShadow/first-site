@@ -1,10 +1,15 @@
 ## *Site WebStudio*
 # *Site with using flask tamplates*
 
+###*Techology that I used:*
+-----
 ![GitHub repo size](https://img.shields.io/badge/repo%20size-8.22%20mB-pink?&style=plastic)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
-[![Language version](https://img.shields.io/badge/version-3.9-red?&style=plastic)](https://www.python.org/downloads/)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
 
 #### *Format start in console:*
