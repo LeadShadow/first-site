@@ -1,7 +1,8 @@
-## *Site WebStudio*
-# *Site with using flask tamplates*
+<h1 align="center">WebStudio</h1>
+<h2 align="center">Site with using flask tamplates</h2>
+<h2 align="center">Techology that I used:</h2>
 
-### *Techology that I used:*
+
 ----
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
