@@ -15,5 +15,6 @@
 
 
 <h3 align="center">Author</h3>
+
 [![GitHub Contributors Image](https://contrib.rocks/image?repo=LeadShadow/hw6web)](https://github.com/LeadShadow)
 
